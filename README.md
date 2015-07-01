@@ -2,7 +2,7 @@
 
 Java utility to convert a text file of Chinese characters into a pinyin form with tone marks in the end of each syllable. 
 
-(using library pinyin4j)
+(using library pinyin4j:   http://pinyin4j.sourceforge.net/)
 
 currently the pinyin will go to standard out as a quick demo.
 
