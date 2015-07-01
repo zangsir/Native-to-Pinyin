@@ -19,4 +19,4 @@ On the directory that contains this jar file and a text file, for example, do:
 
 $java -jar ConversionN2p.jar ./lyrics.txt
 ```
-both of these files (jar and txt) can be found in the /store directory.
+both of these files (jar and txt) can be found in the InputExp/store directory.
