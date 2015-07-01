@@ -8,7 +8,7 @@ currently the pinyin will go to standard out as a quick demo.
 
 If you don't want to modify the source code, you can use shell scripting to redirect to a text file, or do batch processing.
 
-
+<br>
 
 Usage: 
 
