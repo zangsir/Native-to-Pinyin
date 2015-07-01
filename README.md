@@ -12,4 +12,5 @@ Usage:
 you can use the ConversionN2p.jar file directly with a command line argument (which is the text file containing the Chinese charadters).
 
 On the directory that contains this jar file and a text file, for example, do:
+
 java -jar ConversionN2p.jar ./lyrics.txt
