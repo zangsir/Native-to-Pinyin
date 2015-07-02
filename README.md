@@ -20,3 +20,5 @@ On Unix shell, in the directory that contains this jar file and a text file, for
 $java -jar ConversionN2p.jar ./lyrics.txt
 ```
 both of these files (jar and txt) can be found in the InputExp/store directory.
+
+<b>Note</b>: Chinese characters  do not necessarily have one-to-one mapping to pinyin, i.e., in many cases, one character maps to several different pinyin forms (pronunciations). pinyin4j library gives the multiple pinyin output as a Java String array. In most cases the first one is the most frequent one, so the current implementation only gives the first one as the output for simplicity. (To fully use the multiple pronunciation feature of pinyin4j one needs to go beyond unigram language model and use a bi- or tri-gram model (the unit being a character / syllable). 
