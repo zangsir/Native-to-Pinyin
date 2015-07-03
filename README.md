@@ -8,7 +8,11 @@ currently the pinyin will go to standard out as a quick demo.
 
 If you don't want to modify the source code, you can use shell scripting to redirect to a text file, or do batch processing.
 
-There are two versions/subdirectories in this repository: File mode (InputExp/) and UserInput mode (pinyin-exp/) (see readme of in the NetbeanProjects/ directory).
+<b>There are two versions/subdirectories in this repository: </b>
+
+1.File mode (<b>InputExp/</b>) 
+
+2.UserInput mode (<b>pinyin-exp/</b>) (see readme of in the NetbeanProjects/ directory).
 
 <br>
 Example Usage of the <b>File</b> (version 1) mode: 
