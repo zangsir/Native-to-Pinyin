@@ -15,7 +15,7 @@ If you don't want to modify the source code, you can use shell scripting to redi
 2.UserInput mode (<b>pinyin-exp/</b>) (see readme of in the NetbeanProjects/ directory).
 
 <br>
-Example Usage of the <b>File</b> (version 1) mode: 
+<b>Example Usage of the <i>File</i> (version 1) mode: </b>
 <br>
 you can use the ConversionN2p.jar file directly with a command line argument (which is the text file consisting of Chinese character texts).
 
