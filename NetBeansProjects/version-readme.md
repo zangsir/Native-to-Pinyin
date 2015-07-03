@@ -1,6 +1,6 @@
 Two versions of the tool:
 
-1.InputExp : default tool taking a Chinese text file as command line argument and converts the whole file to pinyin.
+1.InputExp (File mode) : default tool taking a Chinese text file as command line argument and converts the whole file to pinyin.
 
 </br>
 Usage:
@@ -12,7 +12,7 @@ $java -jar ConversionN2p.jar /path/to/file
 
 </br>
 </br>
-2. pinyin-exp: a simple tool to convert user input of Chinese characters into pinyin form. 
+2. pinyin-exp (user input mode): a simple tool to convert user input of Chinese characters into pinyin form. 
 
 </br>
 Usage:
